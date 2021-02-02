@@ -1,1 +1,1 @@
-# grasp information expert
+# grasp creator
